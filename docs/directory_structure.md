@@ -163,12 +163,6 @@ netprobe/
 │   ├── progress_display.py # Progress bars và status
 │   └── help_system.py    # Help và documentation
 │
-├── gui/                  # Graphical User Interface (optional)
-│   ├── __init__.py
-│   ├── main_window.py    # Main GUI window
-│   ├── scan_wizard.py    # Scan configuration wizard
-│   ├── results_viewer.py # Results visualization
-│   └── settings_dialog.py # Settings configuration
 │
 ├── api/                  # REST API (optional)
 │   ├── __init__.py
